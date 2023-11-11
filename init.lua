@@ -1,0 +1,7 @@
+require('raja.plugins-setup')
+require('raja.core.options')
+require('raja.core.color')
+require('raja.plugins.nvimtree')
+require('raja.plugins.lualine')
+require('raja.plugins.treeSitter')
+require('raja.core.keymaps')
